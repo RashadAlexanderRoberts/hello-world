@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+FIRST THING FIRST!  R.I.P. UNCLE PHIL.
+FOR REAL.
